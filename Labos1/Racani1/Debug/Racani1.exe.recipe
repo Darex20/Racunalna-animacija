@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Dario\source\repos\Racani1\Debug\Racani1.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Dario\Downloads\bSpline.txt</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Dario\Downloads\747.obj</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Dario\Downloads\porsche.obj</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
